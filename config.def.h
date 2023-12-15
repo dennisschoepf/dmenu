@@ -7,6 +7,7 @@ static const char *fonts[] = {
 	"JetBrainsMono Nerd Font:size=12"
 	"monospace:size=10"
 };
+static const int user_bt = 2;
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
 static const char *colors[SchemeLast][2] = {
 	/*     fg         bg       */
